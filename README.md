@@ -1,21 +1,8 @@
-# Star Wars Movies Survey
-## Project analysing Star Wars Survey Data 
-This project uses Jupyter Notebook to analyze Star Wars movies.
-The objective for the analysis is to be able to help Star Wars movies fans gain some factual knowledge and get answers to some questions about the whole franchise.
-In particular, conclusive answer can be provided to the question "does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?"
-
-# Star Wars Movies Survey
-## Project analysing Star Wars Survey Data 
-This project uses Jupyter Notebook to analyze Star Wars movies.
-The objective for the analysis is to be able to help Star War movies fans gain some factual knowledge and get answers to some questions about the whole franchise.
-In particular, conclusive answer can be provided to the question "does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?"
-
-
 # Star Wars Data Analysis Project
 This project focuses on analyzing survey data related to the Star Wars movie franchise. Through guided exploration and analysis, the project develops key skills essential for performing data science tasks in real-world scenarios.
 
 ## Project Overview
-When *The Force Awakens* was released, the team at FiveThirtyEight sought to answer intriguing questions about Star Wars fans. For instance:
+When *The Force Awakens* was released, the team at [FiveThirtyEight](https://fivethirtyeight.datasettes.com/fivethirtyeight/star-wars-survey~2FStarWars/134) sought to answer intriguing questions about Star Wars fans. For instance:
 **Does the rest of America realize that "The Empire Strikes Back" is the best movie in the series?**
 
 The project involves working with survey data to uncover insights, including:
@@ -25,16 +12,16 @@ The project involves working with survey data to uncover insights, including:
 
 
 ## Key Steps in the Project
-1. Importing Required Packages and Libraries
+1. **Importing Required Packages and Libraries**
 The project uses Python, including libraries such as pandas, numpy, and matplotlib, for data manipulation and visualization.
 
-2. Accessing Data from the Source
-The raw data is sourced from a public survey conducted among Star Wars fans.
+2. **Accessing Data from the Source**
+The raw data is sourced from a public survey conducted among Star Wars fans. Reference: **FiveThirtyEight** link above
 
-3. Exploratory Data Analysis (EDA)
+3. **Exploratory Data Analysis (EDA)**
 Performing EDA to understand the structure, trends, and peculiarities of the dataset.
 
-4. Data Cleaning and Munging
+4. **Data Cleaning and Munging**
 Preparing the data for analysis is one of the most intensive tasks in the project. Given that the survey results contain inconsistencies and missing values, significant effort was required to clean and transform the data.
 
 5. Data Analysis
