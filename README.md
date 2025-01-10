@@ -24,11 +24,11 @@ Performing EDA to understand the structure, trends, and peculiarities of the dat
 4. **Data Cleaning and Munging**
 Preparing the data for analysis is one of the most intensive tasks in the project. Given that the survey results contain inconsistencies and missing values, significant effort was required to clean and transform the data.
 
-5. Data Analysis
+5. **Data Analysis**
 Analyzing the cleaned data to address the project's core objectives:
 
-+ Finding the Highest-Ranked Movie
-+ Finding the Most-Viewed Movie
++ **Finding the Highest-Ranked Movie**
++ **Finding the Most-Viewed Movie**
 
 
 ## Tools and Skills
@@ -39,6 +39,7 @@ Additionally, it illustrates the importance of utilizing external resources, suc
 + Google
 + StackOverflow
 + Documentation for Python libraries
+  
 These are invaluable tools for solving challenges encountered during the project, and are extensively used by most professional data scientists.
 
 ## Why This Project?
