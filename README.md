@@ -27,8 +27,8 @@ Preparing the data for analysis is one of the most intensive tasks in the projec
 5. **Data Analysis**
 Analyzing the cleaned data to address the project's core objectives:
 
-+ **Finding the Highest-Ranked Movie**
-+ **Finding the Most-Viewed Movie**
+ + **Finding the Highest-Ranked Movie**
+ + **Finding the Most-Viewed Movie**
 
 
 ## Tools and Skills
